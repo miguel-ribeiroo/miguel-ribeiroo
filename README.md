@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou o Miguel 👋
 
-<!--
-**miguel-ribeiroo/miguel-ribeiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação focado em Python e Backend  
+🚀 Construindo projetos para evoluir como programador
+## 📚 Atualmente estudando
 
-Here are some ideas to get you started:
+- Python avançado
+- C#
+- SQL e bancos de dados
+- Docker
+- Arquitetura de APIs / FastAPI
+- Linux
+- Git e Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+🔹 Workout API  
+API REST construída com FastAPI para gerenciamento de treinos.  
+Tecnologias: Python, FastAPI, SQLAlchemy.
+
+🔹 Outros projetos em desenvolvimento...
+
+## 🛠 Tecnologias
+
+Python
+MySQL
+C#  
+FastAPI  
+SQLAlchemy  
+Git  
+Docker
+
+
+
+## 🎯 Objetivo
+
+Me tornar desenvolvedor backend profissional e construir APIs escaláveis usando Python.
+
+## 📫 Contato
+
+LinkedIn: seu-linkedin
+
