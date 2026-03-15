@@ -38,5 +38,5 @@ Me tornar desenvolvedor backend profissional e construir APIs escaláveis usando
 
 ## 📫 Contato
 
-LinkedIn: seu-linkedin
+LinkedIn: [meu-LinkedIn](https://www.linkedin.com/in/miguel-augusto-ribeiro)
 
