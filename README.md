@@ -34,9 +34,9 @@ Docker
 
 ## 🎯 Objetivo
 
-Me tornar desenvolvedor backend profissional e construir APIs escaláveis usando Python.
+Me tornar desenvolvedor backend profissional, engenheiro de software e  morar fora.
 
 ## 📫 Contato
 
-LinkedIn: [meu-LinkedIn](https://www.linkedin.com/in/miguel-augusto-ribeiro)
+LinkedIn: [Miguel Augusto](https://www.linkedin.com/in/miguel-augusto-ribeiro)
 
